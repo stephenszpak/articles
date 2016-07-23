@@ -1,0 +1,45 @@
+.article-one{
+	background-color: blue;
+	font-family: arial;
+	font-size: 15px;
+	color: red;
+	line-height: 15px;
+	padding: 20px 15px;
+	border-radius: 25px;
+}
+.article-two{
+	background-color: goldenrod;
+	font-family: courier;
+	font-size: 12px;
+	color: green;
+	line-height: 12px;
+	padding: 12px 15px;
+	border-radius: 15px;
+}
+.article-three{
+	background-color: pink;
+	font-family: fantasy;
+	font-size: 20px;
+	color: orange;
+	line-height: 20px;
+	padding: 15px 10px;
+	border-radius: 50px;
+}
+.article-four{
+	background-color: purple;
+	font-family: cursive;
+	font-size: 18px;
+	color: pink;
+	line-height: 18px;
+	padding: 5px 10px;
+	border-radius: 75px;
+}
+.article-five{
+	background-color: orange;
+	font-family: verdana;
+	font-size: 10px;
+	color: blue;
+	line-height: 10px;
+	padding: 10px 5px;
+	border-radius: 35px;
+}
